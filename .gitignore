@@ -1,0 +1,5 @@
+.DS_Store
+*.lck
+*.sas7bdat
+sasuser*/
+__pycache__/

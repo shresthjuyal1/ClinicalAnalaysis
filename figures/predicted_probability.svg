@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="420" viewBox="0 0 820 420" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect width="820" height="420" fill="#ffffff"/>
+<text x="24.0" y="34.0" font-size="18" fill="#1f2328" text-anchor="start" font-weight="600">Predicted probability of lung cancer vs. years smoked</text>
+<text x="24.0" y="56.0" font-size="12" fill="#656d76" text-anchor="start" font-weight="normal">Woman of average age (57), low SES, smoking the sample mean of 15.7 cigarettes/day. Full model.</text>
+<line x1="80" y1="350.0" x2="600" y2="350.0" stroke="#d0d7de"/>
+<text x="70.0" y="354.0" font-size="12" fill="#656d76" text-anchor="end" font-weight="normal">0%</text>
+<line x1="80" y1="296.0" x2="600" y2="296.0" stroke="#d0d7de"/>
+<text x="70.0" y="300.0" font-size="12" fill="#656d76" text-anchor="end" font-weight="normal">20%</text>
+<line x1="80" y1="242.0" x2="600" y2="242.0" stroke="#d0d7de"/>
+<text x="70.0" y="246.0" font-size="12" fill="#656d76" text-anchor="end" font-weight="normal">40%</text>
+<line x1="80" y1="188.0" x2="600" y2="188.0" stroke="#d0d7de"/>
+<text x="70.0" y="192.0" font-size="12" fill="#656d76" text-anchor="end" font-weight="normal">60%</text>
+<line x1="80" y1="134.0" x2="600" y2="134.0" stroke="#d0d7de"/>
+<text x="70.0" y="138.0" font-size="12" fill="#656d76" text-anchor="end" font-weight="normal">80%</text>
+<line x1="80" y1="80.0" x2="600" y2="80.0" stroke="#d0d7de"/>
+<text x="70.0" y="84.0" font-size="12" fill="#656d76" text-anchor="end" font-weight="normal">100%</text>
+<text x="80.0" y="370.0" font-size="12" fill="#656d76" text-anchor="middle" font-weight="normal">0</text>
+<text x="184.0" y="370.0" font-size="12" fill="#656d76" text-anchor="middle" font-weight="normal">10</text>
+<text x="288.0" y="370.0" font-size="12" fill="#656d76" text-anchor="middle" font-weight="normal">20</text>
+<text x="392.0" y="370.0" font-size="12" fill="#656d76" text-anchor="middle" font-weight="normal">30</text>
+<text x="496.0" y="370.0" font-size="12" fill="#656d76" text-anchor="middle" font-weight="normal">40</text>
+<text x="600.0" y="370.0" font-size="12" fill="#656d76" text-anchor="middle" font-weight="normal">50</text>
+<text x="340.0" y="394.0" font-size="12" fill="#656d76" text-anchor="middle" font-weight="normal">Years smoked</text>
+<path d="M80.0,314.0 L90.4,311.7 L100.8,309.2 L111.2,306.6 L121.6,303.9 L132.0,301.0 L142.4,298.0 L152.8,294.9 L163.2,291.6 L173.6,288.2 L184.0,284.7 L194.4,281.0 L204.8,277.2 L215.2,273.3 L225.6,269.2 L236.0,265.0 L246.4,260.7 L256.8,256.3 L267.2,251.8 L277.6,247.2 L288.0,242.5 L298.4,237.8 L308.8,233.0 L319.2,228.1 L329.6,223.2 L340.0,218.3 L350.4,213.4 L360.8,208.5 L371.2,203.6 L381.6,198.7 L392.0,193.9 L402.4,189.1 L412.8,184.4 L423.2,179.8 L433.6,175.2 L444.0,170.8 L454.4,166.4 L464.8,162.2 L475.2,158.1 L485.6,154.1 L496.0,150.3 L506.4,146.5 L516.8,143.0 L527.2,139.5 L537.6,136.2 L548.0,133.0 L558.4,130.0 L568.8,127.1 L579.2,124.3 L589.6,121.7 L600.0,119.2" fill="none" stroke="#cf222e" stroke-width="3"/>
+<text x="612.0" y="123.2" font-size="13" fill="#cf222e" text-anchor="start" font-weight="600">Keeps birds: 85%</text>
+<circle cx="600.0" cy="119.2" r="4" fill="#cf222e"/>
+<path d="M80.0,339.8 L90.4,339.0 L100.8,338.2 L111.2,337.4 L121.6,336.5 L132.0,335.5 L142.4,334.5 L152.8,333.4 L163.2,332.2 L173.6,330.9 L184.0,329.6 L194.4,328.2 L204.8,326.7 L215.2,325.1 L225.6,323.4 L236.0,321.6 L246.4,319.7 L256.8,317.7 L267.2,315.5 L277.6,313.3 L288.0,310.9 L298.4,308.4 L308.8,305.8 L319.2,303.0 L329.6,300.1 L340.0,297.1 L350.4,293.9 L360.8,290.6 L371.2,287.2 L381.6,283.6 L392.0,279.9 L402.4,276.0 L412.8,272.0 L423.2,267.9 L433.6,263.7 L444.0,259.4 L454.4,254.9 L464.8,250.4 L475.2,245.8 L485.6,241.1 L496.0,236.3 L506.4,231.5 L516.8,226.6 L527.2,221.7 L537.6,216.8 L548.0,211.9 L558.4,206.9 L568.8,202.1 L579.2,197.2 L589.6,192.4 L600.0,187.6" fill="none" stroke="#57606a" stroke-width="3"/>
+<text x="612.0" y="191.6" font-size="13" fill="#57606a" text-anchor="start" font-weight="600">No birds: 60%</text>
+<circle cx="600.0" cy="187.6" r="4" fill="#57606a"/>
+<text x="612.0" y="219.0" font-size="12" fill="#656d76" text-anchor="start" font-weight="normal">at 50 years</text>
+</svg>
